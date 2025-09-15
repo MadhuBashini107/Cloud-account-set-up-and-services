@@ -92,6 +92,8 @@ After signing up for AWS, it’s important to secure your root user, enable **IA
 
 <img width="1920" height="2922" alt="screencapture-eu-north-1-console-aws-amazon-console-services-2025-08-25-14_37_00" src="https://github.com/user-attachments/assets/48254472-b059-4124-9ed6-e8a43dcc326b" />
 
+<img width="1920" height="868" alt="screencapture-ap-south-1-console-aws-amazon-cloudtrailv2-home-2025-09-15-13_43_52 (1)" src="https://github.com/user-attachments/assets/d7a86ac2-4ed9-47a7-9cd9-6310217a2885" />
+
 ---
 # Result  
 Thus, an account was created in the AWS platform and all the services were explored.
